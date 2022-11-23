@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 estoy en rama master
+=======
+estoy en rama 1
+>>>>>>> 4571fd81259354fca78b740e34847f1117d189ea
